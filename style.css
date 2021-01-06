@@ -1,0 +1,45 @@
+
+.name-highlight{
+    color: lawngreen;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(180deg, yellow ,  lime);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+    
+}
+.mama-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.button-resume{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    background-image: linear-gradient(180deg, springgreen, skyblue);
+    
+}
+
+
